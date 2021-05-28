@@ -24,18 +24,18 @@ body {
 	text-transform: capitalize;
 	font-family: "Poppins", sans-serif;
 }
+
 header {
 	width: 100%;
 	text-align: center;
 }
 form {
 	max-width: 760px;
-	margin-left: 300px;
+	margin-left: 270px;
 	text-align: left;
 	background: rgba(27, 27, 50, 0.8);
 	padding: 30px 50px;
 	border-radius: 0.5rem;
-
 	width: 100%;
 	line-height: 2;
 }
